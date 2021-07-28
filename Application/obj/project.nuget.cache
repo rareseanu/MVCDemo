@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I558utHkpBZR1mKjtYBn1pvYPD2EATV7bz6B448u2t3eOp4eyGXYwapd+77ZoWmX3QWudXteWeIcyIt1DMXL7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moise\\Desktop\\MvcDemo2\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moise\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

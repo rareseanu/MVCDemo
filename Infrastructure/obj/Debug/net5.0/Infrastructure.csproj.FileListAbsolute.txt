@@ -1,0 +1,17 @@
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\bin\Debug\net5.0\Application.dll
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\bin\Debug\net5.0\Application.pdb
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\moise\Desktop\MvcDemo2\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
